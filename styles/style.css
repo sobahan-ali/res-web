@@ -37,7 +37,7 @@
 
 .restaurant-info{
     display: flex;
-    background-image: url("/images/Frame 58.jpg");
+    background-image: url("../images/Frame 58.jpg");
     padding-left: 100px;
     align-items: center;
 }
