@@ -6,3 +6,69 @@
     background-color: rgb(138, 181, 185);
     font-size: 30px;
 }
+.flexible-container{
+    display: flex;
+    padding-left: 100px;
+    align-items: center;
+    
+    
+}
+.orange-color{
+    color: orange;
+}
+.blog{
+     width: 40%;
+}
+.link-btn{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(tomato, orange);
+    color: whitesmoke;
+    border-radius: 40px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.meal-img{
+     width: 40%;
+}
+.meal-img img{
+    /* object-fit: cover; */
+}
+
+.restaurant-info{
+    display: flex;
+    background-image: url("/images/Frame 58.jpg");
+    padding-left: 100px;
+    align-items: center;
+}
+.res-blog{
+    width: 40%;
+}
+.res-img{
+    width: 40%;
+    
+}
+.res-img img{
+    height: 450px;
+}
+.recepie-info{
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+.recepie-images{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+.recepie-item{
+    box-shadow: 10px 20px 40px gray;
+    margin: 5px;
+    padding: 10px;
+}
+.recepie-item img{
+    width: 300px;
+    height: 250px;
+
+}
