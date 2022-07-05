@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.headline{
+    text-align: center;
+    background-color: rgb(138, 181, 185);
+    font-size: 30px;
+}
